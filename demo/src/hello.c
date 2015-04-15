@@ -1,0 +1,6 @@
+#include "hello.h"
+
+void hello(void)
+{
+	std::cout << "Hello World!" << std::endl << std::endl;
+}
