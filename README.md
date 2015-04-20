@@ -11,7 +11,7 @@ cd MakeMakefile
 # Demo
 ```
 cd MakeMakefile/demo
-createmake
+createmake.py
 make run
 make clean
 ```
